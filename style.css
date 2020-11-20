@@ -159,8 +159,15 @@ nav div {
 }
 
 .google {
-  width: 80%;
-  padding-bottom: 3em;
+  width: 30%;
+  padding-bottom: 2em;
+}
+
+.apple {
+  width: 30%;
+  padding-bottom: 2em;
+  margin-left: 2.5em;
+  margin-top: 1em;
 }
 
 .hdUl {
